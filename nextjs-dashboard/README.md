@@ -9,7 +9,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 3. `CTRL+Shift+P` > TypeScript: Select TypeScript Version > [Use Workspace Version](https://nextjs.org/docs/app/building-your-application/configuring/typescript#typescript-plugin)
 4. `pnpm i` to install packages
 5. `pnpm dev` to start dev server
-6. Install these [4 VS Code extensions](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him) and read through the [VS Code settings reccomendations](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+6. Install these [4 VS Code extensions](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him) and read through the [VS Code settings reccomendations](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) (Tailwind fold optional)
 
 ## Project Organization
 
