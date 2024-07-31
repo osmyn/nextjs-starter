@@ -4,6 +4,15 @@ This is the starter template for the Next.js App Router Course. It contains the 
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
+## SSH setup
+
+1. `ssh-keygen -t ed25519 -C "your_email@example.com"`
+2. `eval "$(ssh-agent -s)"`
+3. `ssh-add ~/.ssh/id_ed25519`
+4. Add the pub file to Github
+
+## Project Setup
+
 1. `npm install -g pnpm`
 2. `npx create-next-app@latest nextjs-dashboard --example "https://github.com/vercel/next-learn/tree/main/dashboard/starter-example" --use-pnpm`
 3. `CTRL+Shift+P` > TypeScript: Select TypeScript Version > [Use Workspace Version](https://nextjs.org/docs/app/building-your-application/configuring/typescript#typescript-plugin)
