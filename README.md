@@ -46,3 +46,11 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
   }
 }
 ```
+
+## Vercel intergration
+
+1. Sign into [Vercel](https://vercel.com/)
+2. Connect & Deploy the project. (May have to adjust permissions to see this repo)
+3. In Vercel Storage, setup a Postgres database, then copy the local.env settings back to the .env settings here
+4. `pnpm i @vercel/postgres` to isnteall Vercel SDK
+5. Run script in `/seed` route
