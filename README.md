@@ -20,6 +20,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 5. `pnpm dev` to start dev server
 6. Install these [4 VS Code extensions](https://dev.to/kalimahapps/4-vscode-extensions-i-use-for-tailwind-2him) and read through the [VS Code settings reccomendations](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss) (Tailwind fold optional)
 7. `pnpm i use-debounce` for query string debouncing
+8. `pnpm i next-auth@beta` for authentication
 
 ## Project Organization
 
